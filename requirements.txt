@@ -1,0 +1,4 @@
+apache-airflow-providers-postgres
+pandas
+apache-airflow-providers-google
+pyarrow
